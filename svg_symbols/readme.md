@@ -1,4 +1,4 @@
-# SVG-symbols for ENC charts
+# SVG-symboleja sähköisiin merikarttoihin
 
 QGIS käyttää kartoissa SVG-grafiikkaa symbolien esittämiseen. Karttamerkin keskipiste piirretään arkin keskelle. Esimerkeissä on käytetty A4-arkkia (210 x 297 mm). Piirto-ohjelmana voi käyttää mitä tahansa vektorigrafiikkasovellusta, joka tukee SVG-muotoon tallentamista.
 
