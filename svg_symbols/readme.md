@@ -1,6 +1,9 @@
 # SVG-symbols for ENC charts
 
-QGIS käyttää kartoissa SVG-grafiikkaa symbolien esittämiseen. Täyttöväri ja viivojen väri voidaan muuttaa QGIS-ohjelmasta käsin. Värien muuttaminen edellyttää värien parametrointia. Sen voi tehdä muokkaamalla SVG-tiedostoa XML-editorilla. 
+QGIS käyttää kartoissa SVG-grafiikkaa symbolien esittämiseen. Karttamerkin keskipiste piirretään arkin keskelle. Esimerkeissä on käytetty A4-arkkia (210 x 297 mm). Piirto-ohjelmana voi käyttää mitä tahansa vektorigrafiikkasovellusta, joka tukee SVG-muotoon tallentamista.
+
+Merimerkkien keskipiste on merkin alareunassa olevan ympyrän keskellä. Täyttöväri ja viivojen väri voidaan muuttaa QGIS-ohjelmasta käsin. Värien ja viivapaksuuksien muuttaminen edellyttää parametrointia. Sen voi tehdä muokkaamalla SVG-tiedostoa XML-editorilla. 
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -16,5 +19,5 @@ viewBox="0 0 21000 29700"
 </svg>
 ```
 
-Kiinteät värit ja viivaleveys `polygon fill="black" stroke="black" stroke-width="7.62" ` muutetaan parametroituun muotoon
+Kiinteät värit ja viivaleveys, esim.  `polygon fill="black" stroke="black" stroke-width="7.62" ` muutetaan parametroituun muotoon
 `polygon fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"`
