@@ -2,7 +2,8 @@
 
 QGIS käyttää kartoissa SVG-grafiikkaa symbolien esittämiseen. Karttamerkin keskipiste piirretään arkin keskelle. Esimerkeissä on käytetty A4-arkkia (210 x 297 mm). Piirto-ohjelmana voi käyttää mitä tahansa vektorigrafiikkasovellusta, joka tukee SVG-muotoon tallentamista.
 
-Merimerkkien keskipiste on merkin alareunassa olevan ympyrän keskellä. Täyttöväri ja viivojen väri voidaan muuttaa QGIS-ohjelmasta käsin. Värien ja viivapaksuuksien muuttaminen edellyttää parametrointia. Sen voi tehdä muokkaamalla SVG-tiedostoa XML-editorilla. 
+![](Länsipoiju.svg)
+Merimerkkien keskipiste on merkin alareunassa olevan ympyrän keskellä. Täyttöväri ja viivojen väri voidaan muuttaa QGIS-ohjelmasta käsin. Värien ja viivapaksuuksien muuttaminen edellyttää parametrointia. Sen voi tehdä muokkaamalla SVG-tiedostoa XML-editorilla.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
