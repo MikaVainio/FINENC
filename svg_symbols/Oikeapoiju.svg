@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW Home & Student X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="keskipiste">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="#009933" stroke="black" stroke-width="200" d="M9545 14854l-1079 0c1980,-2780 2369,-5105 2881,-8528 739,127 766,-8 746,421 -100,2213 -880,5899 -238,8113l-446 -1c-24,-494 -433,-887 -933,-887 -498,0 -905,390 -931,882z"/>
+  <line fill="none" stroke="black" stroke-width="200" x1="12490" y1="14876" x2="11367" y2= "14876" />
+  <line fill="none" stroke="black" stroke-width="200" x1="9567" y1="14854" x2="8444" y2= "14854" />
+ </g>
+ <g id="runko">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon fill="black" stroke="black" stroke-width="7.62" points="12447,850 11418,2022 10389,3194 12049,3448 13710,3702 13078,2276 "/>
+  <circle fill="none" stroke="black" stroke-width="200" cx="10490" cy="14890" r="933"/>
+  <line fill="none" stroke="black" stroke-width="200" x1="12063" y1="3451" x2="11729" y2= "6379" />
+ </g>
+</svg>
