@@ -1,2 +1,2 @@
 # FINENC
-QGIS resources for hydrological mapping
+QGIS-resursseja sähköisten merkikarttojen valmistukseen
