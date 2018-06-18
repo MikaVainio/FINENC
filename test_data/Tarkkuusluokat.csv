@@ -1,0 +1,15 @@
+TKLNUMERO;Tarkkuusluokka 
+0;Tuntematon
+51;Geod. tarkk. 1 (0,12 m / 0,3 m)
+52;Geod. tarkk. 2 (0,2 m / 0,5 m)
+53;Geod. tarkk. 3 (0,4 m / 1 m)
+54;Geod. tarkk. 4 (0,8 m / 2 m)
+55;Geod. tarkk. 5 (2 m / 5 m)
+56;Teor. tarkk. 1 (suunniteltu sijainti)
+57;Teor. tarkk. 2 (asennustarkkuus)
+58;Teor. tarkk. 3 (kohdetta siirretty)
+59;Graaf. tarkk. 1 ( mk>1:1000)
+60;Graaf. tarkk. 2 (1:1000=>mk>1:10000)
+61;Graaf. tarkk. 3 (1:10000=>mk>1:50000)
+62;Graaf. tarkk. 4 (mk = < 1:50000)
+63;Menetelmätarkkuus

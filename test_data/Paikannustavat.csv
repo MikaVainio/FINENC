@@ -1,0 +1,17 @@
+﻿PATA_TYYP;paikannustapa
+0;Tuntematon
+51;Mitattu geodeettisesti
+52;GPS-mittaus
+53;DGPS-paikannus
+54;Decca-paikannus
+55;Syledis-paikannus
+56;Trisponder-paikannus
+57;Autotracker (laser)
+58;Takymetripaikannus
+59;Teodoliittiohjaus
+60;Opt. paik. sekstantilla
+61;Graaf. paik. kartalta
+62;Ilmakuvaus
+63;Teoreettinen määritys
+64;Muu kun edellä mainittu
+65;RTK-GPS-mittaus
