@@ -21,3 +21,6 @@ viewBox="0 0 21000 29700"
 
 Kiinteät värit ja viivaleveys, esim.  `polygon fill="black" stroke="black" stroke-width="7.62" ` muutetaan parametroituun muotoon
 `polygon fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"`
+
+## Tallennushakemisto
+SVG-tiedostot kannattaa tallentaa ohjelman asennushakemistosta löytyvään svg-kansioon, esim `C:\Program Files\QGIS 2.14\apps\qgis-ltr\svg`. Tähän hakemistoon luodaan alihamemisto, esim `ENC_symbols` ja tallennetaan SVG-tiedostot sinne.
