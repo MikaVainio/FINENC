@@ -1,7 +1,10 @@
-# QGIS-kartan kääntäminen ohjelmallisesti
+# QGIS-kartan kiertäminen ohjelmallisesti
 
 # Määritellään karttaikkuna (canvas)
 canvas = iface.mapCanvas()
 
-# Käännetään karttaikkunaa 30 astetta
+# Kierretään karttaikkunaa 30 astetta myötäpäivään
 canvas.rotate(30)
+
+# Kierretään karttaikkunaa 30 astetta vastapäivään
+canvas.rotate(-30)
